@@ -77,7 +77,7 @@ export const PageLayout: React.FC<PageLayoutProps> = ({
         mainLinks={[
           { href: "/", label: "Home" },
           { href: "/about", label: "About" },
-          { href: "https://code-guardian-report.vercel.app", label: "Live Demo" },
+          { href: "https://secuforge.vercel.app/", label: "Live Demo" },
           { href: "mailto:swati01mishra01.com", label: "Contact" },
         ]}
         legalLinks={[
