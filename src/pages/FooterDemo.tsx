@@ -45,7 +45,7 @@ const FooterDemoPage = () => {
         mainLinks={[
           { href: "/", label: "Home" },
           { href: "/about", label: "About" },
-          { href: "https://code-guardian-report.vercel.app", label: "Live Demo" },
+          { href: "https://secuforge.vercel.app/", label: "Live Demo" },
           { href: "mailto:swati01mishra01@gmail.com", label: "Contact" },
         ]}
         legalLinks={[
